@@ -1,9 +1,17 @@
 # Store-watches
-Made a page with model selection .
-This is just one page, soon will be ready home page 
-HTML/CSS all native , but that will change soon
-BEM blocks will be added,
-There will be a switch to SCSS, 
-There will be adaptive cross-browser styling,
-And also want to add sliders in JavaScript 
-And a shopping cart with product selection
+### One page product site.
+### Also implemented adaptive design and cross-browser.
+---
+### Launch site :
+- 1 Method : Go to the site : https://vadimbagrov.github.io/Store-watches/.
+- 
+- 2 Method : Copy yourself a repository , run the Live server extension or install packages with the npm init command and run my pre-built gulp (this will open the site).
+
+---
+### Technologies used :
+
+- HTML. 
+ 
+- CSS. 
+
+- BEM modules.
